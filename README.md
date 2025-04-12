@@ -73,7 +73,7 @@ This prototype is just a starting point. In the future, it could be expanded wit
 
 License
 
-This project is open-source and licensed under the MIT License. Feel free to use, modify, and improve it.
+This project is open-source and licensed under the MIT License. Feel free to use, modify, and improve it [LICENSE](./LICENSE).
 
 ---
 
@@ -82,9 +82,10 @@ Yerassyl Zholgeldiyev
 2025
 ---
 
+
 # SmartHomeProject (Қазақша)
 
-Бұл — Ерassyl Zholgeldiyev әзірлеген смарт үйдің прототипі.  
+Бұл — Жолгелдиев Ерасыл әзірлеген смарт үйдің прототипі.  
 Жүйе Arduino Uno негізінде жасалған және бірнеше сенсор мен модульдерді қамтиды.  
 Олар қозғалысты, отты, газды, жарық деңгейін, температура мен ылғалдылықты анықтайды.
 
