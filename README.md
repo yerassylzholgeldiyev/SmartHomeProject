@@ -1,4 +1,4 @@
-SmartHomeProject
+SmartHomeProject_yerassyl_zholgeldi
 ================
 
 This is a smart home prototype developed by Yerassyl Zholgeldiyev.  
